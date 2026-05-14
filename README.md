@@ -1,6 +1,6 @@
- House-price-prediction-ML--Regression
- An end-to-end Machine learning pipeline utilizing Kinear Regression to estimate residential real estate property values based on key physical attributes and localization parameters.the model acheives a robust 93% R^2 accuracy score with a highly acceptable generalized validation error framework.
- 
+House Price Prediction using Machine Learning
+This repository contains a Machine Learning project designed to predict the market price of houses based on various physical and location-based features. The project utilizes a Linear Regression model to provide accurate real estate valuations.
+
  Project Overwiew:
  Valuing real estate manually is complex and often subject to humans bias. This project demonstrates how a supervised statistical learning approach can capture spatial and structural variables to generate automated,objective property appraisals.
 
