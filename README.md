@@ -45,7 +45,7 @@ Install the required scientific computing and visualization libraries:
 
 # Installation
 1). Clone the repository:
-[https://github.com/YOUR_USERNAME/House-Price-Prediction-ML.git]
+[https://github.com/pachareshreyash41-dev/House-Price-Prediction-ML.git]
 
 2). Open and execute the notebook:
 [jupyter notebook House_Price_Prediction_ML.ipynb]
